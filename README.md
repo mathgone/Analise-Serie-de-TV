@@ -8,15 +8,15 @@ Este programa plota um gráfico de dispersão relacionando Número do Episódio 
 Estes são alguns dos outputs do programa:
 
 ### Os Simpsons (1989 - 2024)
-![alt text](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/The%20Simpsons.png "Os Simpsons")
+![alt text](https://i.postimg.cc/2ScR3SCF/The-Simpsons.png "Os Simpsons")
 
 ### Bob Esponja Calça Quadrada (1999 -)
-![alt text](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/SpongeBob%20SquarePants.png "Bob Esponja")
+![alt text](https://i.postimg.cc/qvMHk3Hv/Sponge-Bob-Square-Pants.png "Bob Esponja")
 
 ### A Anatomia de Grey (2005 -)
-![alt text](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/Grey's%20Anatomy.png "A Anatomia de Grey")
+![alt text](https://i.postimg.cc/X7g0SghP/Grey-s-Anatomy.png "A Anatomia de Grey")
 
 ### The Walking Dead (2010 - 2022)
-![alt text](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/The%20Walking%20Dead.png "The Walking Dead")
+![alt text](https://i.postimg.cc/m24G5ndM/The-Walking-Dead.png "The Walking Dead")
 
 
