@@ -94,7 +94,7 @@ for s in season:
 df = pd.DataFrame(all_data)
 df['Rating'] = pd.to_numeric(df['Rating'])
 
-# organizing another dataframe variable for QoL coding
+# creating another dataframe variable for QoL coding
 season_dataframes = {}
 
 # iterate over unique seasons in the dataframe
