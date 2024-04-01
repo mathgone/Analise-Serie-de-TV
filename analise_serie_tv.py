@@ -94,7 +94,7 @@ for s in season:
 df = pd.DataFrame(all_data)
 df['Rating'] = pd.to_numeric(df['Rating'])
 
-# creating another dataframe variable for QoL coding
+# creating a dictionary for later usage in a for loop plot
 season_dataframes = {}
 
 # iterate over unique seasons in the dataframe
@@ -115,7 +115,7 @@ markers = ['o', 'v', 's', '^', 'D', '<', 'P', '>']
 sns.set_palette('tab10', len(markers))
 counter = 0
 
-# iterating throught the dataframe and scatterplotting
+# iterating throught the dictionary and plotting a scatterplot graph
 for i in season_dataframes:    
     
     # average season rating
@@ -135,7 +135,7 @@ for i in season_dataframes:
     counter += 1
     start_index = (clean_S(i)+1) % len(markers)
 
-    # for every len(markers) number of plots, rearrange the markers list so the colors of the color palette don't overlap
+    # for every len(markers) number of plots, rearrange the markers list so the label doesn't repeat itsefl
     if clean_S(i) % len(markers) == 0:
         
         counter = 0
