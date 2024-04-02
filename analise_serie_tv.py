@@ -18,7 +18,7 @@ try:
     ia = IMDb()
     print('- TV Series Analyser! -\n')
     research = input('Enter the series name or series ID: ')
-    print('...Gathering data...')
+    print('\n...Gathering data...')
     if research.isdigit():
         series = ia.get_movie(research)
     else:
@@ -113,7 +113,7 @@ try:
         season_dataframes[f'{season_num}'] = season_df
     
     ### PLOT
-    print('...Plotting a graph...')
+    print('\n...Plotting a graph...')
     # figure size
     plt.figure(figsize=(20, 8))
     
@@ -203,4 +203,5 @@ try:
     input('\nFinished! Press Enter to exit')
 
 except Exception as e:
-    input('ERROR: No series found. Try using the series ID or certify you wrote it correctly,\nPress Enter to exit.')
+    print('\nERROR: No series found. Try using the series ID or certify you wrote it correctly.\n')
+    input('Press Enter to exit...')
