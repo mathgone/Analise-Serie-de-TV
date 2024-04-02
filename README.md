@@ -1,5 +1,5 @@
 # Análise Série de TV
-Este programa plota um gráfico de dispersão relacionando Número do Episódio x Nota de uma série qualquer listada no site IMDB.
+Este programa plota um gráfico de dispersão relacionando Número do Episódio x Nota de uma série qualquer listada no site [IMDb](https://www.imdb.com/).
 ###### *O gráfico será salvo como uma imagem .png*
 
 1. Execute o arquivo [analise_serie_tv.py](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/analise_serie_tv.py)
