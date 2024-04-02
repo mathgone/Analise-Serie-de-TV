@@ -6,7 +6,7 @@ Este programa plota um gráfico de dispersão relacionando Número do Episódio 
 
 2. Digite o **nome original** da série
     * Caso haja séries com os mesmos nomes ou o programa não consiga identificar a série, **utilize o ID**
-    * O exemplo abaixo mostra onde encontrar os IDs das séries no site do IMDb
+    * Os IDs das séries podem ser encontrados na url do site, como mostra a figura abaixo
       
 ![](https://i.postimg.cc/qvj3FHzL/serie-id.png)
 
