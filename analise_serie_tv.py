@@ -203,4 +203,4 @@ try:
     input('\nFinished! Press Enter to exit')
 
 except Exception as e:
-    input('ERROR: No series found. Try using the series ID or certify you wrote it correctly')
+    input('ERROR: No series found. Try using the series ID or certify you wrote it correctly,\nPress Enter to exit.')
