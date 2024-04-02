@@ -170,8 +170,6 @@ plt.title(f'{title} Rating Analysis', fontsize=24, fontweight='bold')
 
 # x axis
 plt.xlabel('Episode Number', fontweight='bold', fontsize=16, labelpad=20)
-if ep_counter < 100:
-    plt.xticks(df['Episode Number'])
 
 # y axis
 plt.ylabel('Rating', fontweight='bold', fontsize=16, labelpad=20)
