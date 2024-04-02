@@ -16,13 +16,20 @@ ep_counter = 1
 # IMDb package to search for the series attributes
 ia = IMDb()
 print('- TV Series Analyser! -\n')
-research = input('Enter the series name: ')
-print('Gathering data...')
-series = ia.search_movie(research)[0]
+research = input('Enter the series name or series ID: ')
+print('...Gathering data...')
+if research.isdigit():
+    series = ia.get_movie(research)
+else:
+    series = ia.search_movie(research)[0]
+    
 ia.update(series)
 
 # series id
-id = ia.search_movie(research)[0].movieID
+if research.isdigit():
+    id = research
+else:
+    id = series.movieID
 
 # series title
 title = series['title']
@@ -105,7 +112,7 @@ for season_num in df['Season'].unique():
     season_dataframes[f'{season_num}'] = season_df
 
 ### PLOT
-print('Plotting a graph...')
+print('...Plotting a graph...')
 # figure size
 plt.figure(figsize=(20, 8))
 
