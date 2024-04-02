@@ -8,6 +8,7 @@ Este programa plota um gráfico de dispersão relacionando Número do Episódio 
     * Caso haja séries com os mesmos nomes ou o programa não consiga identificar a série, **utilize o ID**
     * Os IDs das séries podem ser encontrados na url do site, como mostra a figura abaixo
       
+### ID da série Breaking Bad: 0903747
 ![](https://i.postimg.cc/qvj3FHzL/serie-id.png)
 
 Estes são alguns dos outputs do programa:
