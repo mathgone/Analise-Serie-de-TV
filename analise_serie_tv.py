@@ -122,9 +122,9 @@ try:
     markers = ['o', 'v', 's', '^', 'D', '<', 'P', '>']
     sns.set_palette('tab10', len(markers))
     counter = 0
-    size = 100
+    size = 80
     if len(df) < 50:
-        size = 150
+        size = 120
     
     # iterating throught the dictionary and plotting a scatterplot graph
     for i in season_dataframes:    
