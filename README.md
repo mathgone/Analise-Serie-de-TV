@@ -1,7 +1,7 @@
 # Análise Série de TV
 Este programa plota um gráfico de dispersão relacionando Número do Episódio x Nota de uma série qualquer listada no site [IMDb](https://www.imdb.com/).
 
-###### **Bibliotecas utilizadas do Python: requests, beautifulsoup4, pandas, IMDbPY, matplotlib, seaborn**
+###### **Bibliotecas utilizadas do Python: requests beautifulsoup4 pandas IMDbPY matplotlib seaborn**
 1. Acesse esta [pasta do Google Drive](https://drive.google.com/drive/folders/1b7_LpHJ6frv23fhCw_6w8k3wiIz30b9d?usp=drive_link) e baixe o arquivo [analise_serie_tv.exe](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/analise_serie_tv.py)
    
 3. Execute o arquivo [analise_serie_tv](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/analise_serie_tv.py)
