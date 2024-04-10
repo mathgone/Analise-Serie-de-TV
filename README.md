@@ -47,21 +47,21 @@ Com apenas alguns inputs, o usuário pode obter um gráfico de dispersão que de
 A partir do software, foram gerados gráficos para os [*Top 250 TV Shows*](https://m.imdb.com/chart/toptv/?ref_=nv_tvv_250) do site.
 ###### Alguns *plots* do Top 250 TV Shows, sem ordem específica
 <p align="center" width="100%">
-    <img width="33%" src="https://i.postimg.cc/8cX0452f/R1-Breaking-Bad.png"> 
-    <img width="33%" src="https://i.postimg.cc/brw51bBj/R2-Planet-Earth-II.png"> 
-    <img width="33%" src="https://i.postimg.cc/43GBzVYF/R18-The-World-at-War.png">
-    <img width="33%" src="https://i.postimg.cc/cLymSwB4/R23-The-Twilight-Zone.png">
-    <img width="33%" src="https://i.postimg.cc/Xqr8VgPX/R20-Attack-on-Titan.png">
-    <img width="33%" src="https://i.postimg.cc/tTM3mxgb/R28-TVF-Pitchers.png">
-    <img width="33%" src="https://i.postimg.cc/Kc0wxq1c/R3-Band-of-Brothers.png">
-    <img width="33%" src="https://i.postimg.cc/mgCmz8gH/R15-The-Sopranos.png">
-    <img width="33%" src="https://i.postimg.cc/BZjkZ5Hx/R33-Better-Call-Saul.png">
-    <img width="33%" src="https://i.postimg.cc/7ZnQtKry/R32-The-Office-USA.png">
-    <img width="33%" src="https://i.postimg.cc/s2PH8wFr/R7_-_The_Wire.png">
-    <img width="33%" src="https://i.postimg.cc/HWvZfrNV/R14-Game-of-Thrones.png">
-    <img width="33%" src="https://i.postimg.cc/rFtJ3QWP/R24-Fullmetal-Alchemist-Brotherhood.png">
-    <img width="33%" src="https://i.postimg.cc/kMHsTkVS/R22-Rick-and-Morty.png">
-    <img width="33%" src="https://i.postimg.cc/MGYttHRZ/R17-Critical-Role.png">
+    <img width="25%" src="https://i.postimg.cc/8cX0452f/R1-Breaking-Bad.png"> 
+    <img width="25%" src="https://i.postimg.cc/brw51bBj/R2-Planet-Earth-II.png"> 
+    <img width="25%" src="https://i.postimg.cc/43GBzVYF/R18-The-World-at-War.png">
+    <img width="25%" src="https://i.postimg.cc/cLymSwB4/R23-The-Twilight-Zone.png">
+    <img width="25%" src="https://i.postimg.cc/Xqr8VgPX/R20-Attack-on-Titan.png">
+    <img width="25%" src="https://i.postimg.cc/tTM3mxgb/R28-TVF-Pitchers.png">
+    <img width="25%" src="https://i.postimg.cc/Kc0wxq1c/R3-Band-of-Brothers.png">
+    <img width="25%" src="https://i.postimg.cc/mgCmz8gH/R15-The-Sopranos.png">
+    <img width="25%" src="https://i.postimg.cc/BZjkZ5Hx/R33-Better-Call-Saul.png">
+    <img width="25%" src="https://i.postimg.cc/7ZnQtKry/R32-The-Office-USA.png">
+    <img width="25%" src="https://i.postimg.cc/s2PH8wFr/R7_-_The_Wire.png">
+    <img width="25%" src="https://i.postimg.cc/HWvZfrNV/R14-Game-of-Thrones.png">
+    <img width="25%" src="https://i.postimg.cc/rFtJ3QWP/R24-Fullmetal-Alchemist-Brotherhood.png">
+    <img width="25%" src="https://i.postimg.cc/kMHsTkVS/R22-Rick-and-Morty.png">
+    <img width="25%" src="https://i.postimg.cc/MGYttHRZ/R17-Critical-Role.png">
 </p>
 
 Você pode acessar toda a lista clicando [neste link](https://drive.google.com/drive/folders/1Kz9c25IGAVdHTS8WLWV7Xjy7M59EencQ).
