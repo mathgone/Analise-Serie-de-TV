@@ -11,17 +11,14 @@
 - # [Guia de instalação e de uso](#guia)
   - ## [Pré-requesitos e informações](#pre_requisitos)
     - ### [1. Python](#instalar_python)
-    - ### [2. ID da série](#codigo_da_serie)
+    - ### [2. Onde econtrar o ID da série](#id_da_serie)
   - ## [Passo a passo para baixar e utilizar o programa](#como-baixar-e-utilizar-o-programa)
-    - ### [1. Baixe a pasta scripts.zip](#baixar_pasta_script)
-    - ### [2. Extraia os arquivos](#extrair_pasta_script)
+    - ### [1. Baixe a pasta analise_imdb.zip](#baixar_pasta_analise_imdb)
+    - ### [2. Extraia os arquivos](#extrair_pasta_analise_imdb)
     - ### [3. Execute o script interface.py](#executar_interface)
     - ### [4. Clique no botão Verificar bibliotecas](#clicar_botao_verificar_bibliotecas)
-    - ### [5. Clique no botão Baixar dados trimestrais](#clicar_botao_baixar_dados_trimestrais)
-    - ### [6. Clique no botão Baixar DFPs](#clicar_botao_baixar_dfps)
-    - ### [7. Digite o código CVM da empresa e o ano da DFP](#inputs)
-    - ### [8. Clique no botão Gerar Excel](#clicar_botao_gerar_excel)
-   
+    - ### [5. Digite o nome ou o ID da série](#inputs)
+    - ### [6. Clique no botão Gerar Gráfico](#gerar_grafico)
 ------------------------
 
 # Análise de uma série de TV
@@ -34,7 +31,7 @@ Este projeto em Python apresenta uma maneira simples e rápida de analisar uma s
 Com apenas alguns inputs, o usuário pode obter um gráfico de dispersão que detalha a relação entre episódios e avaliações.
 
 ###### Interface do programa
-<img align="center" width='33%' src="https://i.postimg.cc/jqHYTSRK/image.png">
+<img align="center" width='33%' src="https://i.postimg.cc/jqHYTSRK/interface.png">
 
 <a name="resumo_funcionalidades"></a>
 ## Resumo das funcionalidades
@@ -64,7 +61,17 @@ Foram gerados gráficos para os [*Top 250 TV Shows*](https://m.imdb.com/chart/to
     <img width="25%" src="https://i.postimg.cc/MGYttHRZ/R17-Critical-Role.png">
 </p>
 
-Você pode acessar toda a lista de gráficos clicando [neste link](https://drive.google.com/drive/folders/1Kz9c25IGAVdHTS8WLWV7Xjy7M59EencQ).
+<h6 align="center">
+  
+[...]
+
+</h6>
+
+<h3 align="center">
+  
+Você pode acessar toda a lista de gráficos clicando [neste link](https://drive.google.com/drive/folders/1Kz9c25IGAVdHTS8WLWV7Xjy7M59EencQ)
+
+</h3>
 
 ## A seguir estão algumas representações gráficas interessantes que foram geradas:
 
@@ -117,10 +124,10 @@ Em contrapartida, [Breaking Bad](https://www.imdb.com/title/tt0903747/) apresent
 ###### Instalador do Python
 <img align="center" width='65%' src="https://i.postimg.cc/wxkf5Tp4/python-installer.png">
 
-<a name="codigo_da_serie"></a>
+<a name="id_da_serie"></a>
 ### 2. ID da série
 > [!IMPORTANT]
-> Caso exista séries com mesmo nome, digite o ID ao invés do título
+> Caso existam séries com mesmo nome, digite o ID ao invés do título
 - O ID pode ser encontrado na URL da página da série no site, como mostra o exemplo abaixo:
 
 ###### O ID da série sempre será os números que sucedem o 'tt'; no caso de Breaking Bad, o ID da série é 0903747
@@ -132,69 +139,59 @@ Em contrapartida, [Breaking Bad](https://www.imdb.com/title/tt0903747/) apresent
 
 ## Como baixar e utilizar o programa
 
-<a name="baixar_pasta_script"></a>
-### 1. Baixe a pasta [filtro_cvm.zip](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/filtro_cvm.zip)
+<a name="baixar_pasta_analise_imdb"></a>
+### 1. Baixe a pasta [analise_imdb.zip]()
 ------------------------
 
-<a name="extrair_pasta_script"></a>
+<a name="extrair_pasta_analise_imdb"></a>
 ### 2. Extraia os arquivos
 
 > [!IMPORTANT]
 > Para garantir o funcionamento do programa, mantenha todos os arquivos extraídos em um único diretório.
 
 ###### Extração de arquivos zip
-<img align="center" width='50%' src="https://i.postimg.cc/zG6jjFMv/extract-image.png">
+<img align="center" width='50%' src="https://i.postimg.cc/8kqvbKvy/extrair-pasta.png">
 
 ------------------------
 
 <a name="executar_interface"></a>
-### 3. Execute o script [interface.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/filtro_cvm/interface.py)
+### 3. Execute o script [interface.py]()
 
 > [!TIP]
 > Segurando a tecla ALT, você pode arrastar o arquivo interface.py para outro diretório para criar um atalho.
 
 ###### Interface do programa
-<img align="center" width='80%' src="https://i.postimg.cc/4xk3sNB8/user-interface.png">
+<img align="center" width='33%' src="https://i.postimg.cc/jqHYTSRK/interface.png">
 
 ------------------------
 
 <a name="clicar_botao_verificar_bibliotecas"></a>
-### 4. Clique no botão <img align="center" width="33%" src="https://i.postimg.cc/YSy0cNVF/verificar-bibliotecas.png"> 
+### 4. Clique no botão <img align="center" width="8%" src="https://i.postimg.cc/s2Mzgc2W/verificar-bibliotecas.png"> 
 
-- Este botão irá executar o script [setup.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/filtro_cvm/setup.py)
+- Este botão irá executar o script [setup.py]()
 - Será feito o download de todos os módulos necessários para o funcionamento do programa
 ------------------------
 
-<a name="clicar_botao_baixar_dados_trimestrais"></a>
-### 5. Clique no botão <img align="center" width='33%' src="https://i.postimg.cc/7PJGkcqZ/baixar-dados-trimestrais.png">
-
-- Este botão irá executar o script [donwload_dados_itr.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/filtro_cvm/download_dados_itr.py)
-- Será realizado o download das [ITRs (Informações Trimestrais) (2011 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/) de Companias Abertas
-- Os dados serão salvos na pasta **dados_cvm_itr**
-------------------------
-
-<a name="clicar_botao_baixar_dfps"></a>
-### 6. Clique no botão <img align='center' width='33%' src="https://i.postimg.cc/7Z9b9rnm/baixar-dfps.png">
-
-- Este botão irá executar o script [donwload_dados_dfp.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/filtro_cvm/download_dados_dfp.py)
-- Será realizado o download dos [DFPs (Demonstrativo Financeiro Padronizado) (2010 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas
-- Os dados serão salvos na pasta **dados_cvm_dfp**
-------------------------
-
 <a name="inputs"></a>
-### 7. Digite o código CVM da empresa e o ano da DFP
+### 5. Digite o nome ou ID da série
 > [!IMPORTANT]
-> Acesse o site para encontrar os códigos CVM das empresas
-- Os códigos CVM das empresas podem ser encontrados [aqui](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAbOrdAlf.aspx?LetraInicial=A)
+> Caso existam séries com mesmo título, utilize o ID
 
-###### Empresa: ALPARGATAS S.A. | Ano: 2023
-<img align="center" width='80%' src="https://i.postimg.cc/j2WhCnFn/user-interface-inputs.png">
+###### Série: Breaking Bad | ID: 0903747
+<p align="left" width="100%">
+    <img width="25%" src="https://i.postimg.cc/1z1hcNcn/breaking-bad-titulo.png">   
+    <img width="25%" src="https://i.postimg.cc/LXN8bVN0/breaking-bad-id.png"> 
+  
+</p>
+
+Ambos os métodos irão funcionar
 
 ------------------------
 
-<a name="clicar_botao_gerar_excel"></a>
-### 8. Clique no botão <img align='center' width='20%' src='https://i.postimg.cc/W44zfY9j/generate-excel.png'>
-- Este botão irá executar o script [filtro.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/filtro_cvm/filtro.py)
-- Um [arquivo Excel](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/ALPARGATAS%20S.A._2023.xlsx) será gerado com as especificações dadas
-  
-  - Link para acessar a planilha: [https://docs.google.com](https://docs.google.com/spreadsheets/d/18aJ9YykdlPfqjOoxF577g4grvyuqFuht/edit?usp=sharing&ouid=103571908927816967898&rtpof=true&sd=true)
+<a name="gerar_grafico"></a>
+### 6. Clique no botão <img align="center" width='8%' src="https://i.postimg.cc/GtPtj16G/gerar-grafico.png">
+
+- Este botão irá executar o script [generate_graph.py]()
+- Será plotado um gráfico de dispersão relacionando Episódios x Avaliações
+- Os dados serão salvos na pasta **Gráficos**
+------------------------
