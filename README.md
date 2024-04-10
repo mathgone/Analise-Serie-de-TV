@@ -81,7 +81,7 @@ Pelo gráfico, é possível notar que [Top Gear](https://www.imdb.com/title/tt16
 ### Doctor Who (2005 - 2012)
 <img width="80%" src="https://i.postimg.cc/GpqgdKKn/R156-Doctor-Who.png">
 
-[Doctor Who](https://www.imdb.com/title/tt0436992/) apresenta uma peculiaridade intrigante: por mais que as avaliações dos seus episódios sejam muito inconsistentes, o rating médio, tanto da maioria das temporadas como o geral (8,6) é muito bom.
+[Doctor Who](https://www.imdb.com/title/tt0436992/) apresenta uma peculiaridade intrigante: por mais que as avaliações dos seus episódios sejam um tanto quanto inconsistentes, o rating médio, tanto da maioria das temporadas como o geral (8,6) é muito bom.
 
 ### Dexter (2006 - 2013), House of Cards (2013 - 2018) & Game of Thrones (2011 - 2019)
 <img width="80%" src="https://i.postimg.cc/sx9wHJvL/R155-Dexter.png">
