@@ -70,11 +70,16 @@ Foram gerados gráficos para os [*Top 250 TV Shows*](https://m.imdb.com/chart/to
 
 </h6>
 
+------------------------
+
 <h3 align="center">
   
 Você pode acessar toda a lista de gráficos clicando [neste link](https://drive.google.com/drive/folders/1Kz9c25IGAVdHTS8WLWV7Xjy7M59EencQ)
 
 </h3>
+
+------------------------
+
 
 <a name="graficos_peculiares"></a>
 ## A seguir estão algumas representações gráficas interessantes que foram geradas:
