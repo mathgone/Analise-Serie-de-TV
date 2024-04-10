@@ -28,6 +28,7 @@
 Este projeto em Python apresenta uma maneira simples e rápida de analisar uma série listada no site [IMDb](https://www.imdb.com/). 
 - O IMDb (Internet Movie Database) é uma base de dados online com informações sobre cinema, TV, música e games;
 - Qualquer usuário pode criar uma conta na plataforma e dar sua opinião sobre uma obra, avaliando com uma nota de 0 a 10.
+  - O *Rating* de uma série ou filme é a média de avaliações dos usuários
   
 Com apenas alguns inputs, o usuário pode obter um gráfico de dispersão que detalha a relação entre episódios e avaliações.
 
