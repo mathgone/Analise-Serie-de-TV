@@ -31,7 +31,7 @@
 Este projeto em Python apresenta uma maneira simples e rápida de analisar uma série listada no site [IMDb](https://www.imdb.com/). 
 - O IMDb (Internet Movie Database) é uma base de dados online com informações sobre cinema, TV, música e games.
   
-Com apenas alguns inputs, o usuário pode obter um gráfico de dispersão que detalha a relação entre episódios e avalições.
+Com apenas alguns inputs, o usuário pode obter um gráfico de dispersão que detalha a relação entre episódios e avaliações.
 
 ###### Interface do programa
 <img align="center" width='33%' src="https://i.postimg.cc/jqHYTSRK/image.png">
