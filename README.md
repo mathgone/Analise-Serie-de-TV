@@ -39,7 +39,7 @@ Com apenas alguns inputs, o usuário pode obter um gráfico de dispersão que de
 <a name="resumo_funcionalidades"></a>
 ## Resumo das funcionalidades
 - **Interface intuitiva**: A interface do programa é simples e acessível.
-   - O programa apenas necessita do nome ou do código da série para gerar um gráfico.
+   - O programa apenas necessita do nome ou do ID da série para gerar um gráfico.
 
 - **Análise gráfica**: Será plotado um gráfico de dispersão que oferece detalhes suficientes para uma primeira análise.
 
