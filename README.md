@@ -44,7 +44,7 @@ Com apenas alguns inputs, o usuário pode obter um gráfico de dispersão que de
 - **Análise gráfica**: Será plotado um gráfico de dispersão que oferece detalhes suficientes para uma primeira análise.
 
 # Top 250 TV Shows IMDb
-A partir do software, foram gerados gráficos para os [*Top 250 TV Shows*](https://m.imdb.com/chart/toptv/?ref_=nv_tvv_250) do site.
+Foram gerados gráficos para os [*Top 250 TV Shows*](https://m.imdb.com/chart/toptv/?ref_=nv_tvv_250) do site.
 ###### Alguns *plots* do Top 250 TV Shows, sem ordem específica
 <p align="center" width="100%">
     <img width="25%" src="https://i.postimg.cc/8cX0452f/R1-Breaking-Bad.png"> 
