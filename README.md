@@ -9,7 +9,7 @@
     - ## [Dexter (2006 - 2013), House of Cards (2013 - 2018) & Game of Thrones (2011 - 2019)]()
     - ## [Breaking Bad (2008 - 2013)]()
 - # [Guia de instalação e de uso](#guia)
-  - ## [Pré-requesitos](#pre_requisitos)
+  - ## [Pré-requesitos e informações](#pre_requisitos)
     - ### [1. Python](#instalar_python)
     - ### [2. ID da série](#codigo_da_serie)
   - ## [Passo a passo para baixar e utilizar o programa](#como-baixar-e-utilizar-o-programa)
@@ -101,7 +101,7 @@ Em contrapartida, [Breaking Bad](https://www.imdb.com/title/tt0903747/) apresent
 # Guia de instalação e de uso
 
 <a name="pre_requisitos"></a>
-## Pré-requisitos
+## Pré-requisitos e informações
 
 
 <a name="instalar_python"></a>
