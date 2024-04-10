@@ -1,13 +1,13 @@
 # Sumário
 - # [Apresentação](#análise-de-uma-série-de-tv)
   - ## [Resumo das funcionalidades](#resumo_funcionalidades)
-- # [Top 250 TV Shows (IMDb)](top-250-tv-shows-imdb)
-  - ## [Análise de alguns gráficos peculiares](análise-de-alguns-gráficos-peculiares)
-    - ## [The Simpsons (1989 - )]()
-    - ## [Top Gear (2002 - 2020)]()
-    - ## [Doctor Who (2005 - 2012)]()
-    - ## [Dexter (2006 - 2013), House of Cards (2013 - 2018) & Game of Thrones (2011 - 2019)]()
-    - ## [Breaking Bad (2008 - 2013)]()
+- # [Top 250 TV Shows (IMDb)](#top_250)
+  - ## [Análise de alguns gráficos peculiares](graficos_peculiares)
+    - ## [The Simpsons (1989 - )](#simpsons)
+    - ## [Top Gear (2002 - 2020)](#top_gear)
+    - ## [Doctor Who (2005 - 2012)](#doctor_who)
+    - ## [Dexter (2006 - 2013), House of Cards (2013 - 2018) & Game of Thrones (2011 - 2019)](#dexter_hoc_got)
+    - ## [Breaking Bad (2008 - 2013)](#breaking_bad)
 - # [Guia de instalação e de uso](#guia)
   - ## [Pré-requesitos e informações](#pre_requisitos)
     - ### [1. Python](#instalar_python)
@@ -40,6 +40,7 @@ Com apenas alguns inputs, o usuário pode obter um gráfico de dispersão que de
 
 - **Análise gráfica**: Será plotado um gráfico de dispersão que oferece detalhes suficientes para uma primeira análise.
 
+<a name="top_250"></a>
 # Top 250 TV Shows IMDb
 Foram gerados gráficos para os [*Top 250 TV Shows*](https://m.imdb.com/chart/toptv/?ref_=nv_tvv_250) do site.
 ###### Alguns *plots* do Top 250 TV Shows, sem ordem específica
@@ -73,23 +74,28 @@ Você pode acessar toda a lista de gráficos clicando [neste link](https://drive
 
 </h3>
 
+<a name="graficos_peculiares"></a>
 ## A seguir estão algumas representações gráficas interessantes que foram geradas:
 
+<a name="simpsons"></a>
 ### The Simpsons (1989 - ) 
 <img width="80%" src="https://i.postimg.cc/hGRL7dCZ/R104-The-Simpsons.png">
 
 [The Simpsons](https://www.imdb.com/title/tt0096697/) é uma dos desenhos mais antigos da televisão, além de ser uma das séries com maior número de episódios e temporadas. O gráfico revela a decadência da qualidade do programa. Entretanto, ao levar em consideração que já se passaram 35 anos desde o lançamento do primeiro episódio, podemos dizer que a animação como um todo teve um ótimo desempenho geral.
 
+<a name="top_gear"></a>
 ### Top Gear (2002 - 2020)
 <img width="80%" src="https://i.postimg.cc/mgMGLv1f/R133-Top-Gear.png">
 
 Pelo gráfico, é possível notar que [Top Gear](https://www.imdb.com/title/tt1628033/) esteve em ascendência contínua por surpreendentes 22 temporadas. Já a partir da 23ª Season, houve uma queda brutal na qualidade da série, o que foi parcialmente recuperado nas temporadas seguintes.
 
+<a name="doctor_who"></a>
 ### Doctor Who (2005 - 2012)
 <img width="80%" src="https://i.postimg.cc/GpqgdKKn/R156-Doctor-Who.png">
 
 [Doctor Who](https://www.imdb.com/title/tt0436992/) apresenta uma peculiaridade intrigante: por mais que as avaliações dos seus episódios sejam um tanto quanto inconsistentes, o rating médio, tanto da maioria das temporadas como o geral (8,6) é muito bom.
 
+<a name="dexter_hoc_got"></a>
 ### Dexter (2006 - 2013), House of Cards (2013 - 2018) & Game of Thrones (2011 - 2019)
 <img width="80%" src="https://i.postimg.cc/sx9wHJvL/R155-Dexter.png">
 <img width="80%" src="https://i.postimg.cc/BnwNzbnJ/R169-House-of-Cards.png">
@@ -97,6 +103,7 @@ Pelo gráfico, é possível notar que [Top Gear](https://www.imdb.com/title/tt16
 
 [Dexter](https://www.imdb.com/title/tt0773262/), [House of Cards](https://www.imdb.com/title/tt1856010/) e [Game of Thrones](https://www.imdb.com/title/tt0944947/) são exemplos de séries que, de acordo com seus telespectadores, poderiam ter tido finais muito mais satisfatórios e congruentes.
 
+<a name="breaking_bad"></a>
 ### Breaking Bad (2008 - 2013) 
 <img width="80%" src="https://i.postimg.cc/8cX0452f/R1-Breaking-Bad.png">
 
@@ -140,7 +147,7 @@ Em contrapartida, [Breaking Bad](https://www.imdb.com/title/tt0903747/) apresent
 ## Como baixar e utilizar o programa
 
 <a name="baixar_pasta_analise_imdb"></a>
-### 1. Baixe a pasta [analise_imdb.zip]()
+### 1. Baixe a pasta [analise_imdb.zip](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/analise_imdb.zip)
 ------------------------
 
 <a name="extrair_pasta_analise_imdb"></a>
@@ -155,7 +162,7 @@ Em contrapartida, [Breaking Bad](https://www.imdb.com/title/tt0903747/) apresent
 ------------------------
 
 <a name="executar_interface"></a>
-### 3. Execute o script [interface.py]()
+### 3. Execute o script [interface.py](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/analise_imdb/interface.py)
 
 > [!TIP]
 > Segurando a tecla ALT, você pode arrastar o arquivo interface.py para outro diretório para criar um atalho.
@@ -168,7 +175,7 @@ Em contrapartida, [Breaking Bad](https://www.imdb.com/title/tt0903747/) apresent
 <a name="clicar_botao_verificar_bibliotecas"></a>
 ### 4. Clique no botão <img align="center" width="8%" src="https://i.postimg.cc/s2Mzgc2W/verificar-bibliotecas.png"> 
 
-- Este botão irá executar o script [setup.py]()
+- Este botão irá executar o script [setup.py](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/analise_imdb/setup.py)
 - Será feito o download de todos os módulos necessários para o funcionamento do programa
 ------------------------
 
@@ -191,7 +198,7 @@ Ambos os métodos irão funcionar
 <a name="gerar_grafico"></a>
 ### 6. Clique no botão <img align="center" width='8%' src="https://i.postimg.cc/GtPtj16G/gerar-grafico.png">
 
-- Este botão irá executar o script [generate_graph.py]()
+- Este botão irá executar o script [generate_graph.py](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/analise_imdb/generate_graph.py)
 - Será plotado um gráfico de dispersão relacionando Episódios x Avaliações
 - Os dados serão salvos na pasta **Gráficos**
 ------------------------
