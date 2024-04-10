@@ -180,7 +180,7 @@ Em contrapartida, [Breaking Bad](https://www.imdb.com/title/tt0903747/) apresent
 ------------------------
 
 <a name="clicar_botao_verificar_bibliotecas"></a>
-### 4. Clique no botão <img align="center" width="8%" src="https://i.postimg.cc/s2Mzgc2W/verificar-bibliotecas.png"> 
+### 4. Clique no botão <img align="center" width="10%" src="https://i.postimg.cc/s2Mzgc2W/verificar-bibliotecas.png"> 
 
 - Este botão irá executar o script [setup.py](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/analise_imdb/setup.py)
 - Será feito o download de todos os módulos necessários para o funcionamento do programa
@@ -203,7 +203,7 @@ Ambos os métodos irão funcionar
 ------------------------
 
 <a name="gerar_grafico"></a>
-### 6. Clique no botão <img align="center" width='8%' src="https://i.postimg.cc/GtPtj16G/gerar-grafico.png">
+### 6. Clique no botão <img align="center" width='10%' src="https://i.postimg.cc/GtPtj16G/gerar-grafico.png">
 
 - Este botão irá executar o script [generate_graph.py](https://github.com/mathgone/Analise-Serie-de-TV/blob/main/analise_imdb/generate_graph.py)
 - Será plotado um gráfico de dispersão relacionando Episódios x Avaliações
