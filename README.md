@@ -64,7 +64,7 @@ A partir do software, foram gerados gráficos para os [*Top 250 TV Shows*](https
     <img width="25%" src="https://i.postimg.cc/MGYttHRZ/R17-Critical-Role.png">
 </p>
 
-Você pode acessar toda a lista clicando [neste link](https://drive.google.com/drive/folders/1Kz9c25IGAVdHTS8WLWV7Xjy7M59EencQ).
+Você pode acessar toda a lista de gráficos clicando [neste link](https://drive.google.com/drive/folders/1Kz9c25IGAVdHTS8WLWV7Xjy7M59EencQ).
 
 ## A seguir estão algumas representações gráficas interessantes que foram geradas:
 
