@@ -16,7 +16,7 @@
     - ### [1. Baixe a pasta analise_imdb.zip](#baixar_pasta_analise_imdb)
     - ### [2. Extraia os arquivos](#extrair_pasta_analise_imdb)
     - ### [3. Execute o script interface.py](#executar_interface)
-    - ### [4. Clique no botão Verificar bibliotecas](#clicar_botao_verificar_bibliotecas)
+    - ### [4. Clique no botão Verificar Bibliotecas](#clicar_botao_verificar_bibliotecas)
     - ### [5. Digite o nome ou o ID da série](#inputs)
     - ### [6. Clique no botão Gerar Gráfico](#gerar_grafico)
 ------------------------
